@@ -1,0 +1,23 @@
+{
+  "name": "tree-demo",
+  "version": "1.0.0",
+  "description": "Describe tree-demo here",
+  "private": true,
+  "scripts": {
+    "build": "nwb build",
+    "clean": "nwb clean",
+    "start": "nwb serve",
+    "test": "nwb test"
+  },
+  "dependencies": {
+    "react": "0.14.x",
+    "react-dom": "0.14.x",
+    "react-ui-tree": "^2.5.0"
+  },
+  "devDependencies": {
+    "nwb": "0.7.x"
+  },
+  "author": "",
+  "license": "MIT",
+  "repository": ""
+}
